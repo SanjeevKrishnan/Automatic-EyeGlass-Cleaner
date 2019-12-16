@@ -62,11 +62,11 @@ const int wipr_lft_time = 530;
 const int wipr_rgt_time = 530;
 const int blow_time = 10000;
 
-const int wipr_open_ang = 44;
+const int wipr_open_ang = 45;
 
-const double ultrasonic = -44.0;
-const double rinser = 16.5;
-const double wiper = 23.5;
+const double ultrasonic = -45.0;
+const double rinser = 15.0;
+const double wiper = 23.0;
 
 LiquidCrystal_I2C lcd = LiquidCrystal_I2C(0x27, 20, 4);
 Servo Servo1;
