@@ -38,9 +38,9 @@ long counter = 0; // encoder revolution counter
   
 /* VALUES */
 
-const int main_ls_val = 100;
-const int rnsr_ls_val = 50;
-const int wipr_lft_val = 30;
+const int main_ls_val = 50;
+const int rnsr_ls_val = 100;
+const int wipr_lft_val = 35;
 const int wipr_rgt_val = 30;
 const int cyt_stop_val = 0;
 const int wipr_stop_val = 0;
