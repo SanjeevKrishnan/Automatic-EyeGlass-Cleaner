@@ -56,10 +56,10 @@ const int wipr_lft = HIGH;
 const int wipr_rgt = LOW;
 
 const int wipe_time = 2475;
-const int rnsr_right_time = 3400;
-const int rnsr_left_time = 3600;
-const int wipr_lft_time = 530;
-const int wipr_rgt_time = 530;
+const int rnsr_right_time = 3500;
+const int rnsr_left_time = 3500;
+const int wipr_lft_time = 550;
+const int wipr_rgt_time = 550;
 const int blow_time = 10000;
 
 const int wipr_open_ang = 45;
