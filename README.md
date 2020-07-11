@@ -48,7 +48,7 @@ It is a cuboidal frame structure made up of aluminum channel covered with transp
 
 ### Holder
 
-![Holder](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Holder.jpeg =100x)
+![Holder](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Holder.jpeg)
 
 We have designed a special holder for mounting the eyeglasses. Eyeglasses comes in different shapes and sizes. So we have made a holder that can adjust itself to hold all types of eyeglasses.
 
@@ -58,19 +58,19 @@ There is a vessel at the bottom which is connected with an ultrasonic transducer
 
 ### Rinsing
 
-![Rinser](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Rinser.jpeg =100x)
+![Rinser](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Rinser.jpeg)
 
 After ultrasonic cleaning, eye-glass is lifted to the middle of the machine where it is rinsed with water with the help of a ‘U’ shaped structure with two nozzles placed in front and back of the lenses. This rinser runs perpendicular to the eyeglass splashing water on the eyeglasses. 
 
 ### Drying and Wiping
 
-![Wiper](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Wiper.jpeg =100x)
+![Wiper](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Wiper.jpeg)
 
 After rinsing, eyeglasses move to the last level, to the top of the machine, where it is dried and wiped. There are hot air blowers on the two side walls of the machine which blows hot air on the spectacle which helps in removing wetness from the frame. Then it is wiped with a sponge wrapped with a microfiber cloth. There are 4 circular disks with this kind of wiping material covering both sides of both the lenses. This wiper works on the rack and pinion mechanism.
 
 ### Traversal
 
-![Vertical Assembly](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Vertical%20Assembly.jpeg =100x)
+![Vertical Assembly](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Vertical%20Assembly.jpeg)
 
 The eyeglass holder is connected to a vertical lead screw which helps the eye-glass to move to different levels for different processes. This vertical lead screw is operated by a 900 rpm DC motor which is placed perpendicular to the lead screw and both are coupled with a pair of bevel gear. Its feedback is taken with the help of a rotary encoder which is again placed in the same fashion as the motor.
 
