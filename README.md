@@ -9,11 +9,7 @@ Aim of this project is to make a self-automated Eyeglass Cleaner that can cleans
 
 ## Motivation
 
-In this fast and busy world, we fail to take care of our own minute personal cleanliness. But when we enter the professional world, all these small things get noticed. And also, these small things pile up to big issues which in turn affects us directly. In this, our spectacles take a major part because eyes are our index. An easily operable machine which can clean our spectacles during our coffee time will be of high use, especially in professional and public spaces.
-
-Eyeglasses cleaners available presently in the market are costly but are not versatile. They either do ultrasonic cleaning or splashing water and drying. But still, it leaves smudges on the lenses. And also they might take much time for this simple task and majorly nowhere automatic wiping is available. This process is clumsy and can be automated which would give the user complete hands-free experience.  
-
-So we planned on designing a machine that can clean, rinse, dry, and wipe the eye-glass in less time.
+<p align="justify">In this fast and busy world, we fail to take care of our own minute personal cleanliness. But when we enter the professional world, all these small things get noticed. And also, these small things pile up to big issues which in turn affects us directly. In this, our spectacles take a major part because eyes are our index. An easily operable machine which can clean our spectacles during our coffee time will be of high use, especially in professional and public spaces.<br><br>Eyeglasses cleaners available presently in the market are costly but are not versatile. They either do ultrasonic cleaning or splashing water and drying. But still, it leaves smudges on the lenses. And also they might take much time for this simple task and majorly nowhere automatic wiping is available. This process is clumsy and can be automated which would give the user complete hands-free experience.<br><br>So we planned on designing a machine that can clean, rinse, dry, and wipe the eye-glass in less time.</p>
 
 ## Components
 
@@ -44,27 +40,35 @@ So we planned on designing a machine that can clean, rinse, dry, and wipe the ey
 
 ### Structure
 
-It is a cuboidal frame structure made up of aluminum channel covered with transparent acrylic sheets to allow users to see the whole cleaning process. Wiper and hot air blower are placed at the top, water rinser is placed at the middle, and ultrasonic cleaning vessel is placed at the bottom. Water storage is placed above the structure, ultrasonic circuit, and water pump is placed in a separate chamber below ultrasonic vessel separated by plywood and all other electronic components are placed at the backside of the structure separated from the structure by acrylic sheet to protect components from water.
+<p align="justify">It is a cuboidal frame structure made up of aluminum channel covered with transparent acrylic sheets to allow users to see the whole cleaning process. Wiper and hot air blower are placed at the top, water rinser is placed at the middle, and ultrasonic cleaning vessel is placed at the bottom. Water storage is placed above the structure, ultrasonic circuit, and water pump is placed in a separate chamber below ultrasonic vessel separated by plywood and all other electronic components are placed at the backside of the structure separated from the structure by acrylic sheet to protect components from water.</p>
 
 ### Holder
+
+![Holder](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Holder.jpeg)
 
 We have designed a special holder for mounting the eyeglasses. Eyeglasses comes in different shapes and sizes. So we have made a holder that can adjust itself to hold all types of eyeglasses.
 
 ### Ultrasonic Cleaning
 
-There is a vessel at the bottom which is connected with an ultrasonic transducer which produces ultrasonic waves in the liquid filled inside the vessel by changing electrical signals to mechanical waves. The waves create cavitation in the liquid. These cavitations collapse with enormous energy due to which high temperature and pressure are generated and thus help in cleaning the glasses.
+<p align="justify">There is a vessel at the bottom which is connected with an ultrasonic transducer which produces ultrasonic waves in the liquid filled inside the vessel by changing electrical signals to mechanical waves. The waves create cavitation in the liquid. These cavitations collapse with enormous energy due to which high temperature and pressure are generated and thus help in cleaning the glasses.</p>
 
 ### Rinsing
 
-After ultrasonic cleaning, eye-glass is lifted to the middle of the machine where it is rinsed with water with the help of a ‘U’ shaped structure with two nozzles placed in front and back of the lenses. This rinser runs perpendicular to the eyeglass splashing water on the eyeglasses. 
+![Rinser](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Rinser.jpeg)
+
+<p align="justify">After ultrasonic cleaning, eye-glass is lifted to the middle of the machine where it is rinsed with water with the help of a â€˜Uâ€™ shaped structure with two nozzles placed in front and back of the lenses. This rinser runs perpendicular to the eyeglass splashing water on the eyeglasses.</p> 
 
 ### Drying and Wiping
 
-After rinsing, eyeglasses move to the last level, to the top of the machine, where it is dried and wiped. There are hot air blowers on the two side walls of the machine which blows hot air on the spectacle which helps in removing wetness from the frame. Then it is wiped with a sponge wrapped with a microfiber cloth. There are 4 circular disks with this kind of wiping material covering both sides of both the lenses. This wiper works on the rack and pinion mechanism.
+![Wiper](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Wiper.jpeg)
+
+<p align="justify">After rinsing, eyeglasses move to the last level, to the top of the machine, where it is dried and wiped. There are hot air blowers on the two side walls of the machine which blows hot air on the spectacle which helps in removing wetness from the frame. Then it is wiped with a sponge wrapped with a microfiber cloth. There are 4 circular disks with this kind of wiping material covering both sides of both the lenses. This wiper works on the rack and pinion mechanism.</p>
 
 ### Traversal
 
-The eyeglass holder is connected to a vertical lead screw which helps the eye-glass to move to different levels for different processes. This vertical lead screw is operated by a 900 rpm DC motor which is placed perpendicular to the lead screw and both are coupled with a pair of bevel gear. Its feedback is taken with the help of a rotary encoder which is again placed in the same fashion as the motor.
+![Vertical Assembly](https://github.com/SanjeevKrishnan/Automatic-EyeGlass-Cleaner/blob/master/Images%20and%20Videos/Images/Vertical%20Assembly.jpeg)
+
+<p align="justify">The eyeglass holder is connected to a vertical lead screw which helps the eye-glass to move to different levels for different processes. This vertical lead screw is operated by a 900 rpm DC motor which is placed perpendicular to the lead screw and both are coupled with a pair of bevel gear. Its feedback is taken with the help of a rotary encoder which is again placed in the same fashion as the motor.</p>
 
 ## Electronics Aspect of the Design
 
@@ -128,8 +132,8 @@ Arduino Mega 2560 R3 is used as the microcontroller board.
 
 ## Applications
 
-* Optical showrooms-To clean customers’ spectacles
-* Eye clinics - To clean patients’ spectacles
+* Optical showrooms-To clean customersâ€™ spectacles
+* Eye clinics - To clean patientsâ€™ spectacles
 * Theatres - To clean 3D glasses 
 * Offices - Workers can clean their spectacles
 * Shopping Malls - People can spend their wait time in cleaning their spectacles
@@ -155,8 +159,8 @@ Arduino Mega 2560 R3 is used as the microcontroller board.
 
 ## Mentors
 
-1. Anant Shandilya
-2. Shubhanshu Agarwal
+1. [Anant Shandilya](https://github.com/Anant-Shandilya)
+2. [Shubhanshu Agarwal](https://github.com/Shubhanshu07)
 
 ## References
 
