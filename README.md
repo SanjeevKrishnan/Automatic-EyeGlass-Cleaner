@@ -155,7 +155,9 @@ Arduino Mega 2560 R3 is used as the microcontroller board.
 2. [Rishika Chandra](https://github.com/chandrarishika14)
 3. [Sanjeev Krishnan R.](https://github.com/SanjeevKrishnan)
 4. [Suja G.](https://github.com/suja-g)
-5. [Yawan Gupta](https://github.com/yawangupta)
+5. [Ujjwal Baranwal]()
+6. [Yashutosh Bansal](https://github.com/yashutoshbansal)
+7. [Yawan Gupta](https://github.com/yawangupta)
 
 ## Mentors
 
